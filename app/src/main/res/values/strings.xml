@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DrinkApp</string>
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="instruction">Instruction:</string>
+    <string name="drink_name">Drink name</string>
+    <string name="mojito">Mojito</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measure">Measure</string>
+
+    <string-array name="drink_names">
+        <item>Mojito</item>
+        <item>Old Fashioned</item>
+        <item>Long Island Tea</item>
+        <item>Negroni</item>
+        <item>Whiskey Sour</item>
+        <item>Dry Martini</item>
+        <item>Daiquiri</item>
+        <item>Margarita</item>
+        <item>Cocktail Horse’s Neck</item>
+        <item>Planter’s Punch</item>
+        <item>Ramos Gin Fizz</item>
+        <item>Gin Lemon</item>
+        <item>Gin Tonic</item>
+        <item>Vodka Tonic</item>
+        <item>Vodka Lemon</item>
+    </string-array>
+
+</resources>
