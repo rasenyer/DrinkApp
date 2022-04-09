@@ -29,22 +29,22 @@ API link: https://www.thecocktaildb.com
 <h2>Screenshots:</h2>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg2zGzYr1UWCIIIblr8fii5v3BhpehTM37O-Kyp9bp3jN1eGdNX3wBRWXw6Gr1o6rjJGJpRs7kPdVUrv--EuQ0nKgAO16cFVVd9sa_X4RE8K5pVjR8Ndu21ea4yp4B3993h8EMUBFtKKpvQjS3w-MQlNJuyvbYnrQZjacrHMWqzwA7phnbLlgX5cPp6=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhWyJ8iMvX10riMZ1B95KL_4qCzqtHu2ZSp4KKaRXsJeP-LsWT44LrUvhXikl8VUS9aYP2EQnYlmY2UxmbTMs6_TnNMzyMglm9-jO1FAK_Ba5hoH6_4qDcjHYiIkwj7y-RIBLFB_3s0lP7U36VuP5rl2LQKKWd0cNXiHvU0Mrh8xtfGZIekv7l-vo2r=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg5DSwu2ojPSpSaGs_CEQRpycS6jiSNA1reBQ1OLHdM5R-QbHVLU_vgtGW3CzvHX8DkKxo8mj7TcJ4DCiMbd9reWrPCM-gqTSIYhSdH8aCKPbfbFrvVo9wjENUw-SdYvqNJJOlKc6pe1fTAvx3wC1VxDSroNSKX7UO52NGeH1Fsdw3YZTn2NeIcAOCZ=s16000" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFJVT7tGc1KQw/feedshare-shrink_1280/0/1645467049844?e=2147483647&v=beta&t=kV0P9K9r68W76J6Wh3VkRmBnCXCJguaI8HzBqTkLzn0" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFdXgxMWO9jUA/feedshare-shrink_1280/0/1645467048025?e=2147483647&v=beta&t=2LBG1ny3uUO3TQoS39oyALsKRcqjPruLL12XUaIWp4E" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEbNHoUjW1T6w/feedshare-shrink_1280/0/1645467049877?e=2147483647&v=beta&t=S_Fq5P6fLEoRMsuYv9gWibcIT-tqKNmq75HUUdJzHtw" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgpVo08jJBzNAB4CWiXFjhqlnbMnQ4feEtXREomPUvhP_F9heSwBCN5-0_TW4bsSKnL_v4S5ERuyIDYX5UmjwxlIC7XWWPoVBxiQkMmgSaEwg3EXzuCzV6QXZCxZ253I7MOaX9nsIL5qM-GuaN04GbLNu_lHRKddHomkp3kvKbmNMxmO-ZgMK8NDw0q=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgW0HpXDzCy2XbnWaGbdf6h38NdnSewTriBkOgU6LfVFw7A9bvgL9VLUF-xQ947_OggA2zUI3F7KhXOpE64OIXfPIqaF6nwVk6RUQ5p1mo2nqBPoeXPBbCRU59CF07UcyIJZF-1_7O2_d_lI37nOiBdDjUULeoCLPAq3-fuH42moRKMsDDsPhanCVIq=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhEGA653va3fUUKEuU38fLKQKWGDD7m5Or7FsyOx49HX0JkBuHzFZUS34axpr350VlFG45Db6tFHmohf4F26GXeXNQinzH0JOuBx0ih_mQAtjwRVNEkh4EufkEoSIK0FRzR1_XXsudn8jwUG77UL0ciFpH2bzLxHPfPfX83QPpi7hTEwC1zPu-b8n3M=s16000" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEPbFytAUdmiA/feedshare-shrink_1280/0/1645467049003?e=2147483647&v=beta&t=Xl0d-y-_mI-M-dbGr_YXxIjPPyJQ9u5cWU-TjiHqLIY" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQECUIhvtHpgUg/feedshare-shrink_1280/0/1645467048088?e=2147483647&v=beta&t=Es-Fj-x89KnXXCrzHHVHTxE0AfsXzEnLLuhOXDq24nA" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHy_3vkXRYcLw/feedshare-shrink_1280/0/1645467049003?e=2147483647&v=beta&t=FBTK4qorkrsil-91Fw7iIYslzsTvwaXYqyf0QAIChZo" width="250">
 </div>
 
 <br>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj9TVdF0Xae1e0KCnTGLcRNT1fbzEQWopcYu-FXxIQ0mp2EMHC96hexj9U4KgqNQJeJoY6qZS1SxdH8xXBi8k7EwU6tijM_bo5GgJX9KBKZyqQxdwqbcHwmWLkEZ4ExVYcCfnKkY-7Owj0hjvDqb_oMiKvh0iDnqVU2cvjovFCx8EraO_YLLQuwQqEI=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjY6CZnWKcELgaBd9AaASekh0iLAigqPrwMtUtrfjiS34eXLr8yx4lpcVPMKdUT1BApUvakLvkbd_JBtPIEEPxmiKRrKtZ30maWE86_J4ZUsRBABODBbpq_laEhFVgR7zJN9F9_dfLI_akmeiJE2vu1j_c3YtuWjEoMSCbPbk1RSaMlEfit1NTy4v3h=s16000" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHcTxyo7E-01g/feedshare-shrink_1280/0/1645467049767?e=2147483647&v=beta&t=QXZYlgq2czLkKSlEXC4eoF3vqDncv6YKoKQbIp-e-_Y" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQE5fwqU4IqTuQ/feedshare-shrink_1280/0/1645467049330?e=2147483647&v=beta&t=u5Jdrv5iH3oAe6ptKRxIU6p8ZgHmj8XPGCj7PVlbFRk" width="250">
 </div>
