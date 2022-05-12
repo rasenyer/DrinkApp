@@ -1,6 +1,10 @@
 # DrinkApp
 Drink recipe application, which consumes an API using Retrofit, Coroutines and the MVVM architecture.
 <br>
+<br>
+App on Google Play: https://play.google.com/store/apps/details?id=com.rasenyer.drinkapp
+<br>
+<br>
 API link: https://www.thecocktaildb.com
 
 <h2>Features:</h2>
